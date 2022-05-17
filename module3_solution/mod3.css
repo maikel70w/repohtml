@@ -1,12 +1,13 @@
 body { 
     font-size: 16px;
     color: black;
-    background-color: #61122f;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: #000
+     'Courier New', Courier, monospace;
 }
 .navbar {
-    border: 0ch;
-    border-radius: 0%;
+    background-color: bisque;
+    border-radius: 0;
+    border-radius: 0;
 }
 .navbar-default .navbar-brand{
     color: aqua;
@@ -16,10 +17,10 @@ h2 {
 }
 
 section {
-    border: 1px solid #000;
+    border: 1px salmon;
     margin-top: 7%;
     margin-bottom: 3%;
-    padding: 5%;
+    padding: 5%;--
     background-color: bisque;
     
 }
