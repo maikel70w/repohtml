@@ -1,5 +1,10 @@
 body { color: black;
     font-family: 'Courier New', Courier, monospace;
-
-
+}
+.navbar {
+    border: 0ch;
+    border-radius: 0%;
+}
+.navbar-default .navbar-brand{
+    color: aqua;
 }
