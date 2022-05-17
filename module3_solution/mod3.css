@@ -1,4 +1,7 @@
-body { color: black;
+body { 
+    font-size: 16px;
+    color: black;
+    background-color: #61122f;
     font-family: 'Courier New', Courier, monospace;
 }
 .navbar {
