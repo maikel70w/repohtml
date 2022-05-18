@@ -14,9 +14,7 @@ body {
 
 h2 {
     margin-top: 20px;
-    text-align: center;
 }
-
 
 section {
     border: 1px solid #000;
@@ -24,4 +22,5 @@ section {
     margin-bottom: 3%;
     padding: 5%;
     background-color: rgba(255, 0, 0, .7);
+    
 }
