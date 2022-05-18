@@ -1,26 +1,25 @@
-body { 
-    font-size: 16px;
-    color: black;
-    background-color: #000
-     'Courier New', Courier, monospace;
+body {
+    color: #1c1c20;
+    font-family: 'Oxygen', sans-serif;
 }
+
 .navbar {
-    background-color: bisque;
-    border-radius: 0;
+    border: 0;
     border-radius: 0;
 }
+
 .navbar-default .navbar-brand{
-    color: aqua;
+    color: #1c1c20;
 }
+
 h2 {
     margin-top: 20px;
 }
 
 section {
-    border: 1px salmon;
+    border: 1px solid #000;
     margin-top: 7%;
     margin-bottom: 3%;
-    padding: 5%;--
-    background-color: bisque;
+    padding: 5%;
+    background-color: rgba(255, 0, 0, .7);
     
-}
