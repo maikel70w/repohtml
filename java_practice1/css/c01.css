@@ -1,7 +1,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:800italic);
 
-/* body { 
+body { 
     font-family: "Courier New", Courier, monospace;
  background: url("https://github.com/maikel70w/repohtml/blob/main/java_practice1/images/constructive-backdrop.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -53,12 +53,12 @@ p {
     border-left: 1px solid #bcbdc0;}
 
 /* Border under box when you move script in the last example */
-/*p + script + h3 {
+p + script + h3 {
     padding-bottom: 20px;
     border-bottom: 1px solid #bcbdc0;}
 
 /* Fix for full-screen background image: Chrome on Android */
-/*html{
+html{
     height:100%;
     min-height:100%;}
 body{
