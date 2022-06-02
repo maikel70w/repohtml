@@ -1,7 +1,7 @@
 // *******************************
 // START HERE IF YOU WANT A MORE CHALLENGING STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
-(function (window) {
+(function () {
 // Module 4 Assignment Instructions.
 //
 // The idea of this assignment is to take an existing array of names
@@ -54,10 +54,10 @@ for (var i = 0; i < names.length; i++) {
   // 'j'. If the same, call byeSpeaker's 'speak' method with the current name
   // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
   // name in the loop.
-  if (firsletter === 'j') {
+  if (firstLetter === 'j') {
     byeSpeaker.speak(names[i]);
   } else {
     helloSpeaker.speak(names[i]);
   }
 }
-}) ; (window);
+}) (); 
