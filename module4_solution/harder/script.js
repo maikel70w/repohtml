@@ -1,7 +1,7 @@
 // *******************************
 // START HERE IF YOU WANT A MORE CHALLENGING STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
-(function () {
+(function (window) {
 // Module 4 Assignment Instructions.
 //
 // The idea of this assignment is to take an existing array of names
@@ -60,4 +60,4 @@ for (var i = 0; i < names.length; i++) {
     helloSpeaker.speak(names[i]);
   }
 }
-}) ();
+}) (window);
