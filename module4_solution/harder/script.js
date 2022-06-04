@@ -1,13 +1,3 @@
-(function(window) {
-  var helloSpeaker = {};
-  helloSpeaker.speak = function(name) {
-    console.log(speakWord + " " + helloSpeaker.name);
-  }
-  var speakWord = "Hello";
-  window.helloSpeaker = helloSpeaker;
-}(window));
-
-//script.js
 (function() {
   var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
   for (var i = 0; i < names.length; i++) {
